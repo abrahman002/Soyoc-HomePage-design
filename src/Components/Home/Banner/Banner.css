@@ -1,0 +1,17 @@
+@media screen and (max-width:575px) {
+     .banner{
+        padding: 0px;
+     }
+     .banner-info{
+        display: block;
+        padding-left: 25px;
+        margin-top: 50px;
+     }
+     .banner-image{
+       padding-left: 0px;
+       /* margin-left: 0px; */
+     }
+     .icon{
+        margin-top: 10px;
+     }
+}

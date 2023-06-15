@@ -1,0 +1,9 @@
+@media screen and (max-width:575px) {
+    .card{
+        padding: 10px;
+        margin-bottom: 50px;
+    }
+    .card-image{
+        margin-bottom: 20px;
+    }
+}
